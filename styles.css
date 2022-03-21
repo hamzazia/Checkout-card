@@ -1,8 +1,8 @@
 :root {
     --color-green: #16a085;
     --color-black: #030506;
-    --color-gray: #68696c;
-    --color-light-gray: #c6c1c1;
+    --color-grey: #68696c;
+    --color-light-grey: #c6c1c1;
     --color-white: #ffffff;
 }
 html,
@@ -56,7 +56,7 @@ text-align: center;
 	 box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .card-description {
-    color: var(--color-light-gray);
+    color: var(--color-light-grey);
     font-size: 1rem;
     margin: 0 2rem;
 }
@@ -76,7 +76,7 @@ text-align: center;
 .product-name {
 	    font-size: 1rem;
     font-weight: 500;
-    color: var(--color-gray);
+    color: var(--color-grey);
     text-transform: capitalize;
 }
 .product-price {
@@ -87,7 +87,7 @@ text-align: center;
 .total {
 	font-size: 1.5rem;
     font-weight: 500;
-    color: var(--color-gray);
+    color: var(--color-grey);
     text-transform: uppercase;
 }
 .total-price{
